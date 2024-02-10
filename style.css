@@ -190,3 +190,15 @@ h1 {
 	color: #fff;
 	background-color: var(--light-blue);
 }
+
+@media (max-width: 576px) {
+	.popup {
+		width: 100%;
+	}
+}
+
+@media (max-width: 768px) {
+	.popup {
+		width: 100%;
+	}
+}
